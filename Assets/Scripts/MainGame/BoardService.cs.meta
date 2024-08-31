@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9034e743b0a525044b14541ab8473e3c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _boardRect: {instanceID: 0}
+  - _cellPrefab: {fileID: 8696323634447971094, guid: 2b5db3b21ae5cb64d9c36b7e1ae20a6d, type: 3}
+  - _gameOverScreen: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
